@@ -1,2 +1,2 @@
 FROM debian:jessie
-ENTRYPOINT ["/bin/bash"]
+CMD ["/bin/bash"]
